@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>Sitemap Fix</name>
+	<key>sitemapfix</key>
+	<description>Light-weight plugin to fix the error you get when visit yourwebsite.com/sitemap.xml.</description>
+    <author>Ebenezer Obasi</author>
+    <authorEmail>info@eobasi.com</authorEmail>
+    <authorUrl>http://www.eobasi.com</authorUrl>
+    <developerKey>d7be028d4d1053345e0fd37184e5dadb</developerKey>
+    <build>1</build>
+    <copyright>© 2018 All rights reserved.</copyright>
+    <license>OSCL</license>
+    <licenseUrl>http://www.oxwall.org/store/oscl</licenseUrl>
+</plugin>
